@@ -1,0 +1,12 @@
+div{
+    display: flex;
+    
+    flex-direction: column;
+    gap: 2em;
+
+    width: 100%;
+    flex-wrap: wrap;
+    flex-shrink: 1;
+
+    overflow-x: auto;
+}
